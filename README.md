@@ -39,8 +39,7 @@ The following **required** functionality is completed:
   * [&#10003;]  Required: Add *at least 5* other validations of your choosing.</br>
                 * Validate uniqueness of users.username (bonus) </br>
                 * Email must contain @, checked in both client and server side</br>
-                * Validate phone number is between 10 to 20 characers long </br>
-                  * max length 15 numbers, Source: https://en.wikipedia.org/wiki/Telephone_numbering_plan 
+                * Validate phone number is between 10 to 20 characers long. Souce: https://en.wikipedia.org/wiki/Telephone_numbering_plan </br>
                 * Validate that first name and last name only contains letters and - in both salesperson and users</br>
                 * Validate that country name must only contain Letters </br>
 
