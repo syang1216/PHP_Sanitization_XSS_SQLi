@@ -36,13 +36,13 @@ The following **required** functionality is completed:
   * [&#10003;]  Required: Validate that usernames contain only the whitelisted characters.
   * [&#10003;]  Required: Validate that phone numbers contain only the whitelisted characters.
   * [&#10003;]  Required: Validate that email addresses contain only whitelisted characters.
-  * [&#10003;]  Required: Add *at least 5* other validations of your choosing.
-                * Validate uniqueness of users.username (bonus)
-                * Email must contain @, checked in both client and server side
-                * Validate phone number is between 10 to 20 characers long
+  * [&#10003;]  Required: Add *at least 5* other validations of your choosing.</br>
+                * Validate uniqueness of users.username (bonus) </br>
+                * Email must contain @, checked in both client and server side</br>
+                * Validate phone number is between 10 to 20 characers long </br>
                   * max length 15 numbers, Source: https://en.wikipedia.org/wiki/Telephone_numbering_plan 
-                * Validate that first name and last name only contains letters and - in both salesperson and users
-                * Validate that country name must only contain Letters 
+                * Validate that first name and last name only contains letters and - in both salesperson and users</br>
+                * Validate that country name must only contain Letters </br>
 
 
 8\. [&#10003;]  Required: Sanitization
@@ -78,7 +78,7 @@ The following advanced user stories are optional:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/w8CzFIO.gifv' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/syang1216/PHP_Sanitization_XSS_SQLi/blob/master/week2_3.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
